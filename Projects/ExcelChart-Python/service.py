@@ -1,0 +1,7 @@
+exec(open("./pyScript/citationImpact.py").read())
+exec(open("./pyScript/citationPaper.py").read())
+exec(open("./pyScript/esi.py").read())
+exec(open("./pyScript/publicationsArea.py").read())
+exec(open("./pyScript/publishmentpaper.py").read())
+exec(open("./pyScript/stuNo.py").read())
+exec(open("./pyScript/teacherPosition.py").read())
